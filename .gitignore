@@ -1,0 +1,7 @@
+*.o
+*.so
+build/
+nbproject/
+.idea/
+*.mp4
+*.avi
