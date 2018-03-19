@@ -9,10 +9,10 @@ def was_space_pressed():
 
 
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
-dim = (640, 480)
-offset = (0, 200)
+dim = (1300, 700)
+offset = (0, 0)
 
-fps = 60
+fps = 20
 period = 1 / fps
 
 out = cv2.VideoWriter('output.avi',
