@@ -1,4 +1,4 @@
-# Fast screenshots on ubuntu in python
+# Fast screenshots on ubuntu with python
 Capturing video from the screen on ubuntu using opencv, X11 and boost python.  
 
 Screen capture code is based on this question. https://stackoverflow.com/questions/24988164/c-fast-screenshots-in-linux-for-use-with-opencv
